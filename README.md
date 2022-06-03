@@ -7,10 +7,13 @@
 
 # Skill
 <p> Beginner </p>
+
 # Expirience 
 *I don't have*
+
 # Education
 <p> Bartender </p>
+
 # English 
 <p> A1 </p>
 
